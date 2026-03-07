@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Assish 👋
 
-<!--
-**assishmoncs/assishmoncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying to understand why my code works.
 
-Here are some ideas to get you started:
+- 💻 I write code
+- 🐛 I create bugs
+- 🔧 I fix bugs
+- 🐛 I create new bugs while fixing bugs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Status:
+while(alive){
+    eat();
+    sleep();
+    code();
+    repeat();
+}
