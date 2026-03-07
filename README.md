@@ -7,10 +7,11 @@ Trying to understand why my code works.
 - 🔧 I fix bugs
 - 🐛 I create new bugs while fixing bugs
 
-Current Status:
+```c
 while(alive){
     eat();
     sleep();
     code();
     repeat();
 }
+```
