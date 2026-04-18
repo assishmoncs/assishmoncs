@@ -1,29 +1,69 @@
 # Hi, I'm Assish 👋
 
-I'm a developer who enjoys building things, breaking things, and then figuring out why they broke in the first place.
-
-### About Me
-
-* 💻 I write code
-* 🐛 I create bugs
-* 🔧 I fix bugs
-* 🐛 I create new bugs while fixing old bugs
-* 📚 Constantly learning and experimenting
-* 🚀 Trying to build useful and interesting projects
-
-### Developer Lifecycle
-
-```c
-while(alive){
-    eat();
-    sleep();
-    code();
-    debug();
-}
-```
-
-> "First, solve the problem. Then, write the code. Then, debug for the next 3 hours."
+I build things that *sometimes* work on the first try.  
+When they don’t, I call it **research**.
 
 ---
 
-⭐ Always learning, always building.
+## 🧠 About Me
+
+* 💻 Turning caffeine into questionable code
+* 🐛 Professional bug creator
+* 🔧 Amateur bug fixer
+* ⚠️ I don’t break things… I *discover undocumented behavior*
+* 📚 Learning things I probably should’ve learned earlier
+* 🚀 Trying to build stuff that people might actually use
+
+---
+
+## 🔁 Developer Lifecycle
+
+```c
+while(alive){
+    think();
+    overthink();
+    code();
+    wonderWhyItDoesntWork();
+    debug();
+    learn();
+}
+```
+
+---
+
+## 🧩 Current Status
+
+```txt
+[██████████░░░░░░░░░░] 50% understanding
+[████████████████░░░░] 80% confidence
+[██░░░░░░░░░░░░░░░░░░] 10% correctness
+```
+
+---
+
+## 📌 Philosophy
+
+> "It works on my machine.  
+> That’s all the validation I need."
+
+---
+
+## 🐍 Contribution Activity
+
+<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+
+<br>
+Fallback: [View my contribution activity](https://github.com/assishmoncs)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assishmoncs/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:assishmoncs@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/assishmon_cs/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/assishmoncs/)
+
+---
+
+⭐ Building. Breaking. Rebuilding.
