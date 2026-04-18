@@ -43,7 +43,7 @@ while(alive){
 
 ## 🐍 Contribution Activity
 
-<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity visualization as animated snake">
 
 _If the snake is sleeping, the workflow that generates this SVG may still need to run._
 
