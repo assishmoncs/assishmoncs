@@ -43,9 +43,9 @@ while(alive){
 
 ## 🐍 Contribution Activity
 
-<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="Animated visualization of GitHub contribution activity shown as a snake moving through a grid">
+<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
 
-_If the image above doesn't load, the SVG generation workflow/output branch may still be processing._
+_If the image above doesn't load, refresh later or check back soon while the SVG generation workflow/output branch finishes processing._
 <br>
 Fallback: [View my contribution activity](https://github.com/assishmoncs)
 
