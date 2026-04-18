@@ -48,14 +48,6 @@ while(alive){
 
 ---
 
-## 🐍 Contribution Activity
-
-<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
-
-<br>
-Fallback: [View my contribution activity](https://github.com/assishmoncs)
-
----
 
 ## 🤝 Connect with Me
 
