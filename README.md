@@ -47,7 +47,7 @@ while(alive){
 
 _If the snake is sleeping, the SVG generation workflow/output branch may not be ready yet._
 <br>
-Fallback: [View my contribution activity](https://github.com/users/assishmoncs/contributions)
+Fallback: [View my contribution activity](https://github.com/assishmoncs)
 
 ---
 
