@@ -25,7 +25,7 @@ while(alive){
     code();
     wonderWhyItDoesntWork();
     debug();
-    google();
+    learn();
 }
 ```
 
@@ -41,20 +41,19 @@ while(alive){
 
 ---
 
-## 🐍 Contribution Activity
-
-<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
-
-_If the image above doesn't load, refresh later or check back soon while the SVG generation workflow/output branch finishes processing._
-<br>
-Fallback: [View my contribution activity](https://github.com/assishmoncs)
-
----
-
 ## 📌 Philosophy
 
 > "It works on my machine.  
 > That’s all the validation I need."
+
+---
+
+## 🐍 Contribution Activity
+
+<img src="https://github.com/assishmoncs/assishmoncs/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+
+<br>
+Fallback: [View my contribution activity](https://github.com/assishmoncs)
 
 ---
 
