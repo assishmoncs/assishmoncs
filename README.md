@@ -11,6 +11,8 @@ I spend most of my time turning caffeine into code. Sometimes it works on the fi
   <a href="https://github.com/assishmoncs">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=assishmoncs&layout=compact&theme=radical" alt="Top Languages" />
   </a>
+</div>
+<div>
   <a href="https://github.com/assishmoncs">
     <img src="https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
