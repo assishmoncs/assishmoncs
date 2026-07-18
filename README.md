@@ -41,14 +41,6 @@ while(alive){
 
 ---
 
-## What I Work With
-
-I primarily build with JavaScript and TypeScript. We have a complicated but functional relationship, and React and Next.js are my usual go-to tools. 
-
-I also write Python when I need to, and I'm currently reconnecting with C# and .NET. As for HTML and CSS, it still takes me a minute to center a div, but I get there eventually. My version control strategy mostly involves Git, and occasionally copying from StackOverflow to undo my mistakes.
-
----
-
 ## Activity
 
 *(If the snake below stops moving, it means I'm busy generating bugs elsewhere)*
@@ -56,7 +48,7 @@ I also write Python when I need to, and I'm currently reconnecting with C# and .
 ![Contribution Snake](https://raw.githubusercontent.com/assishmoncs/assishmoncs/output/github-contribution-grid-snake.svg)
 
 ### Contribution Streak
-- **Current Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assishmoncs&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assishmoncs&theme=radical)
 
 ---
 
