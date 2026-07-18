@@ -1,54 +1,83 @@
-# Assish Moncs
+# 👋 Hi, I'm Assish
+
+I build things that *sometimes* work on the first try.  
+When they don’t, I call it **research**.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=assishmoncs&show_icons=true&theme=radical)](https://github.com/assishmoncs)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assishmoncs&layout=compact&theme=radical)](https://github.com/assishmoncs)
-[![Weekly Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=assishmoncs&theme=react)](https://github.com/assishmoncs)
 [![Profile Views](https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/assishmoncs)
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-I am a passionate software developer who transforms ideas into functional, user‑centric applications. My focus lies in delivering clean, maintainable code while continuously learning emerging technologies.
-
-- 💻 Full‑stack development, primarily **JavaScript/TypeScript**, **Python**, and **C#**
-- 🐞 Strong debugging and problem‑solving skills
-- 📚 Lifelong learner, always exploring new patterns and tools
-- 🚀 Building projects that solve real‑world problems and provide value to users
-
----
-
-## 🛠️ Technical Skills
-
-| Language / Framework | Proficiency |
-|----------------------|-------------|
-| JavaScript / TypeScript | Advanced |
-| React / Next.js | Advanced |
-| Python | Intermediate |
-| C# / .NET | Intermediate |
-| HTML & CSS | Advanced |
-| Git & Version Control | Advanced |
-| CI/CD (GitHub Actions) | Intermediate |
+* 💻 Turning caffeine into questionable code since [insert year]
+* 🐛 Professional bug creator & Amateur bug fixer
+* ⚠️ I don’t break things... I *discover undocumented behavior*
+* 🚀 Building projects that solve real‑world problems (or at least making new problems to solve later)
+* 📚 Learning things I probably should’ve learned earlier
 
 ---
 
-## 📂 Selected Projects
+## 🔁 Developer Lifecycle
 
-- **Project Name** – Brief description of the project, technologies used, and impact.
-- **Another Project** – Highlight key achievements and what you learned.
-
-*(Add more projects as needed.)*
+```c
+while(alive){
+    think();
+    overthink();
+    code();
+    wonderWhyItDoesntWork();
+    debug();
+    learn();
+}
+```
 
 ---
 
-## 📈 GitHub Activity
+## 🧩 Current Status
 
-- **Contribution Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assishmoncs&theme=radical)
+```txt
+[██████████░░░░░░░░░░] 50% understanding
+[████████████████░░░░] 80% confidence
+[██░░░░░░░░░░░░░░░░░░] 10% correctness
+```
+
+---
+
+## 🛠️ Weapons of Choice
+
+| Language / Tool | Relationship Status |
+|-----------------|---------------------|
+| JavaScript / TypeScript | It's complicated (but we make it work) |
+| React / Next.js | Best friends |
+| Python | We hang out on weekends |
+| C# / .NET | Reconnecting |
+| HTML & CSS | CSS still centers me (eventually) |
+| Git | Copy-pasting from StackOverflow to undo mistakes |
+
+---
+
+## 📈 My Activity (or Lack Thereof)
+
+### 🐍 The Contribution Snake
+*(If he stops moving, it means I'm busy generating bugs elsewhere!)*
+
+![Contribution Snake](https://raw.githubusercontent.com/assishmoncs/assishmoncs/output/github-contribution-grid-snake.svg)
+
+### 🔥 Contribution Streak & Graph
+- **Current Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assishmoncs&theme=radical)
 - **Contribution Graph:** ![Contribution Graph](https://github.com/ashutosh0077/github-readme-activity-graph/blob/master/assets/contrib-graph.svg?raw=true)
 
 ---
 
-## 📫 Get in Touch
+## 📌 Philosophy
+
+> "It works on my machine.  
+> That’s all the validation I need."
+
+---
+
+## 🤝 Connect with Me (Before I break production)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assishmoncs/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:assishmoncs@gmail.com)
