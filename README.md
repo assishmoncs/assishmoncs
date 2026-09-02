@@ -44,23 +44,56 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/assishmoncs/pairpad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=pairpad&theme=github_dark&hide_border=true" alt="PairPad repository card" />
-</a>
-<a href="https://github.com/assishmoncs/zentra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=zentra&theme=github_dark&hide_border=true" alt="Zentra repository card" />
-</a>
+### PairPad
 
-<a href="https://github.com/assishmoncs/ai-study-planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=ai-study-planner&theme=github_dark&hide_border=true" alt="AI Study Planner repository card" />
-</a>
-<a href="https://github.com/assishmoncs/shadowcast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=shadowcast&theme=github_dark&hide_border=true" alt="ShadowCast repository card" />
-</a>
+Real-time collaborative coding for pair programming, technical interviews, and shared code execution.
 
-</div>
+`React` `Node.js` `Socket.IO` `MongoDB`
+
+[Repository →](https://github.com/assishmoncs/pairpad)
+
+</td>
+<td width="50%" valign="top">
+
+### Zentra
+
+Android digital wellbeing platform focused on intentional device usage and measurable focus.
+
+`Kotlin` `Android` `Room` `Hilt`
+
+[Repository →](https://github.com/assishmoncs/zentra)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI Study Planner
+
+AI-assisted study planning with tasks, focus sessions, and analytics.
+
+`Next.js` `TypeScript` `Node.js` `MongoDB`
+
+[Repository →](https://github.com/assishmoncs/ai-study-planner)
+
+</td>
+<td width="50%" valign="top">
+
+### ShadowCast
+
+Browser-to-browser asset delivery using WebRTC peer-to-peer networking.
+
+`TypeScript` `WebRTC` `Go` `Next.js`
+
+[Repository →](https://github.com/assishmoncs/shadowcast)
+
+</td>
+</tr>
+</table>
 
 ---
 
