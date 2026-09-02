@@ -55,31 +55,11 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [PRISM](https://github.com/assishmoncs/Prism-platform)
-
-**Open-source OSINT platform** with 22+ intelligence modules, AI-assisted analysis, real-time scanning, OPSEC scoring, entity graphs, and report generation.
-
-**Stack:** Python · FastAPI · Next.js · TypeScript · Docker
-
-</td>
-<td width="50%" valign="top">
-
 ### 👨‍💻 [PairPad](https://github.com/assishmoncs/pairpad)
 
 **Real-time collaborative coding platform** for pair programming, technical interviews, and shared code execution with CRDT-based editing.
 
 **Stack:** React · Node.js · Socket.IO · MongoDB · Redis
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚨 [HazardLens](https://github.com/assishmoncs/HazardLens)
-
-**Industrial disaster digital-twin platform** that models interacting assets and emergent hazard propagation for fire and explosion response scenarios.
-
-**Stack:** TypeScript · Three.js · Vite · Event-driven simulation
 
 </td>
 <td width="50%" valign="top">
@@ -89,6 +69,26 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 **Android digital-wellbeing platform** with focus scoring, background-resilient focus sessions, analytics, app quotas, widgets, and offline-first storage.
 
 **Stack:** Kotlin · Android · Room · Hilt · Coroutines
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [AI Study Planner](https://github.com/assishmoncs/ai-study-planner)
+
+**Full-stack study planning platform** with AI-generated study plans, task management, Pomodoro sessions, analytics, and production-focused security and operations.
+
+**Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · OpenAI · Docker
+
+</td>
+<td width="50%" valign="top">
+
+### 🌑 [ShadowCast](https://github.com/assishmoncs/shadowcast)
+
+A focused project in your portfolio showcasing practical software engineering, with its repository serving as the best place to explore the implementation and details.
+
+**Repository:** Explore the project for its current architecture, features, and technology choices.
 
 </td>
 </tr>
@@ -133,11 +133,5 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 <a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
-<div align="center">
-
-### Build. Break. Learn. Repeat.
 
 </div>
