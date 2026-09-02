@@ -46,55 +46,21 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 
 <div align="center">
 
-<a href="https://github.com/assishmoncs/pairpad"><img src="https://img.shields.io/badge/PairPad-Real--time%20Collaborative%20Coding-181717?style=for-the-badge&logo=github&logoColor=white" alt="PairPad" /></a>
-<a href="https://github.com/assishmoncs/zentra"><img src="https://img.shields.io/badge/Zentra-Android%20Digital%20Wellbeing-181717?style=for-the-badge&logo=android&logoColor=white" alt="Zentra" /></a>
-<a href="https://github.com/assishmoncs/ai-study-planner"><img src="https://img.shields.io/badge/AI%20Study%20Planner-AI%20Powered%20Productivity-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Study Planner" /></a>
-<a href="https://github.com/assishmoncs/shadowcast"><img src="https://img.shields.io/badge/ShadowCast-P2P%20Web%20Asset%20Delivery-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShadowCast" /></a>
+<a href="https://github.com/assishmoncs/pairpad">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=pairpad&theme=github_dark&hide_border=true" alt="PairPad repository card" />
+</a>
+<a href="https://github.com/assishmoncs/zentra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=zentra&theme=github_dark&hide_border=true" alt="Zentra repository card" />
+</a>
+
+<a href="https://github.com/assishmoncs/ai-study-planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=ai-study-planner&theme=github_dark&hide_border=true" alt="AI Study Planner repository card" />
+</a>
+<a href="https://github.com/assishmoncs/shadowcast">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=assishmoncs&repo=shadowcast&theme=github_dark&hide_border=true" alt="ShadowCast repository card" />
+</a>
 
 </div>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### [PairPad](https://github.com/assishmoncs/pairpad)
-
-Real-time collaborative coding for pair programming and technical interviews.
-
-`React` `Node.js` `Socket.IO` `MongoDB`
-
-</td>
-<td width="50%" align="center">
-
-### [Zentra](https://github.com/assishmoncs/zentra)
-
-Android digital wellbeing platform focused on intentional device usage.
-
-`Kotlin` `Android` `Room` `Hilt`
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### [AI Study Planner](https://github.com/assishmoncs/ai-study-planner)
-
-AI-assisted study planning with tasks, focus sessions, and analytics.
-
-`Next.js` `TypeScript` `Node.js` `MongoDB`
-
-</td>
-<td width="50%" align="center">
-
-### [ShadowCast](https://github.com/assishmoncs/shadowcast)
-
-Browser-to-browser asset delivery using WebRTC peer-to-peer networking.
-
-`TypeScript` `WebRTC` `Go` `Next.js`
-
-</td>
-</tr>
-</table>
 
 ---
 
