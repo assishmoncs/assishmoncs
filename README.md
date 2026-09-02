@@ -1,79 +1,143 @@
-# Hi, I'm Assish
+<div align="center">
 
-I spend most of my time turning caffeine into code. Sometimes it works on the first try, but when it doesn't, I just call it "research".
+# Hi, I'm Assish 👋
 
-<div>
-  <a href="https://github.com/assishmoncs">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=assishmoncs&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/assishmoncs">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=assishmoncs&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/assishmoncs">
-    <img src="https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+### BTech CSE Student · Software Developer · Builder
+
+I enjoy turning ideas into practical software, exploring AI/ML and full-stack development, and building projects that solve real problems.
+
+<p>
+  <a href="https://github.com/assishmoncs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20Views&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
 
 ## About Me
 
-I like to think of myself as an amateur bug fixer (and admittedly, a professional bug creator). I don't really break things; I just have a knack for discovering undocumented behavior. 
-
-Mostly, I build projects to solve real-world problems, though sometimes I just end up creating new problems to solve later. I'm always exploring new patterns and tools, and frequently learning things I probably should have learned years ago.
-
----
-
-## Developer Lifecycle
-
-```c
-while(alive){
-    think();
-    overthink();
-    code();
-    wonderWhyItDoesntWork();
-    debug();
-    learn();
-}
-```
+- 🎓 BTech Computer Science & Engineering student
+- 💻 Interested in software engineering, full-stack development, AI/ML, and developer tools
+- 🧩 I like building end-to-end projects instead of stopping at prototypes
+- 🛠️ Comfortable learning unfamiliar technologies when a project needs them
+- 🚀 My GitHub is a collection of experiments, products, hackathon builds, and engineering work
 
 ---
 
-## Current Status
+## Tech Stack
 
-```txt
-[██████████░░░░░░░░░░] 50% understanding
-[████████████████░░░░] 80% confidence
-[██░░░░░░░░░░░░░░░░░░] 10% correctness
-```
+<div align="center">
 
----
+### Languages
 
-## Activity
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,kotlin" alt="Languages" />
 
-*(If the snake below stops moving, it means I'm busy generating bugs elsewhere)*
+### Web & Backend
 
-![Contribution Snake](https://raw.githubusercontent.com/assishmoncs/assishmoncs/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi" alt="Web and backend technologies" />
 
-### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assishmoncs&theme=radical)
+### Data & Infrastructure
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux" alt="Data and infrastructure technologies" />
 
-## Philosophy
-
-> "It works on my machine.  
-> That’s all the validation I need."
+</div>
 
 ---
 
-## Connect with Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assishmoncs/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:assishmoncs@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/assishmon_cs/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/assishmoncs/)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [PRISM](https://github.com/assishmoncs/Prism-platform)
+
+**Open-source OSINT platform** with 22+ intelligence modules, AI-assisted analysis, real-time scanning, OPSEC scoring, entity graphs, and report generation.
+
+**Stack:** Python · FastAPI · Next.js · TypeScript · Docker
+
+</td>
+<td width="50%" valign="top">
+
+### 👨‍💻 [PairPad](https://github.com/assishmoncs/pairpad)
+
+**Real-time collaborative coding platform** for pair programming, technical interviews, and shared code execution with CRDT-based editing.
+
+**Stack:** React · Node.js · Socket.IO · MongoDB · Redis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 [HazardLens](https://github.com/assishmoncs/HazardLens)
+
+**Industrial disaster digital-twin platform** that models interacting assets and emergent hazard propagation for fire and explosion response scenarios.
+
+**Stack:** TypeScript · Three.js · Vite · Event-driven simulation
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 [Zentra](https://github.com/assishmoncs/zentra)
+
+**Android digital-wellbeing platform** with focus scoring, background-resilient focus sessions, analytics, app quotas, widgets, and offline-first storage.
+
+**Stack:** Kotlin · Android · Room · Hilt · Coroutines
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/assishmoncs">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=assishmoncs&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Assish's GitHub statistics" />
+</a>
+<a href="https://github.com/assishmoncs">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assishmoncs&layout=compact&hide_border=true&theme=github_dark" alt="Assish's top languages" />
+</a>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=assishmoncs&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=assishmoncs&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/assishmoncs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<div align="center">
+
+### Build. Break. Learn. Repeat.
+
+</div>
