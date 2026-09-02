@@ -2,17 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/assishmoncs/assishmoncs/main/assets/profile-header.svg" width="100%" alt="Assish - Computer Science Student, Software Developer, Builder" />
 
-</div>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20Views&style=flat-square" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20Views&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
@@ -122,13 +120,8 @@ Peer-to-peer web asset delivery engine using browser-to-browser WebRTC networkin
 
 ---
 
-## Connect
-
 <div align="center">
 
-<a href="https://github.com/assishmoncs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+### Build things worth opening.
 
 </div>
