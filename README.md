@@ -5,7 +5,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/assishmoncs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -45,6 +44,8 @@ I'm a BTech Computer Science & Engineering student who enjoys building practical
 
 ## Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -53,7 +54,7 @@ I'm a BTech Computer Science & Engineering student who enjoys building practical
 
 Real-time collaborative coding for pair programming, interviews, and shared code execution.
 
-**React** · **Node.js** · **Socket.IO** · **MongoDB**
+`React` `Node.js` `Socket.IO` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +63,7 @@ Real-time collaborative coding for pair programming, interviews, and shared code
 
 Android digital wellbeing app built around focus scoring, focus sessions, and usage analytics.
 
-**Kotlin** · **Android** · **Room** · **Hilt**
+`Kotlin` `Android` `Room` `Hilt`
 
 </td>
 </tr>
@@ -73,7 +74,7 @@ Android digital wellbeing app built around focus scoring, focus sessions, and us
 
 AI-assisted study planning with tasks, focus sessions, analytics, and a full-stack architecture.
 
-**Next.js** · **TypeScript** · **Node.js** · **MongoDB**
+`Next.js` `TypeScript` `Node.js` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
@@ -82,11 +83,13 @@ AI-assisted study planning with tasks, focus sessions, analytics, and a full-sta
 
 Peer-to-peer web asset delivery engine using browser-to-browser WebRTC networking.
 
-**TypeScript** · **WebRTC** · **Go** · **Next.js**
+`TypeScript` `WebRTC` `Go` `Next.js`
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -123,6 +126,7 @@ Peer-to-peer web asset delivery engine using browser-to-browser WebRTC networkin
 
 <div align="center">
 
+<a href="https://github.com/assishmoncs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
