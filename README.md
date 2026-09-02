@@ -1,24 +1,25 @@
 <div align="center">
 
-# Hi, I'm Assish
-
-### BTech CSE Student · Software Developer · Builder
-
-I enjoy turning ideas into practical software, exploring AI/ML and full-stack development, and building projects that solve real problems.
-
-<img src="https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20Views&style=flat-square" alt="Profile views" />
+<img src="https://raw.githubusercontent.com/assishmoncs/assishmoncs/main/assets/profile-header.svg" width="100%" alt="Assish - Computer Science Student, Software Developer, Builder" />
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/assishmoncs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=assishmoncs&label=Profile%20Views&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
 ## About Me
 
-- BTech Computer Science & Engineering student
-- Interested in software engineering, full-stack development, AI/ML, and developer tools
-- I like building end-to-end projects instead of stopping at prototypes
-- Comfortable learning unfamiliar technologies when a project needs them
-- My GitHub is a collection of experiments, products, hackathon builds, and engineering work
+I'm a BTech Computer Science & Engineering student who enjoys building practical software and exploring AI/ML, full-stack development, and developer tools. I like taking ideas from concept to working systems, learning new technologies when a project demands them, and using GitHub to document what I build along the way.
 
 ---
 
@@ -28,15 +29,15 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,kotlin" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,kotlin" alt="C, C++, Python, Java, JavaScript, TypeScript, Kotlin" />
 
 ### Web & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi" alt="Web and backend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi" alt="HTML, CSS, React, Next.js, Node.js, Express, FastAPI" />
 
 ### Data & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux" alt="Data and infrastructure technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux" alt="MongoDB, MySQL, Git, GitHub, Docker, Linux" />
 
 </div>
 
@@ -48,48 +49,40 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 <tr>
 <td width="50%" valign="top">
 
-### PairPad
+### [PairPad](https://github.com/assishmoncs/pairpad)
 
-Real-time collaborative coding for pair programming, technical interviews, and shared code execution.
+Real-time collaborative coding for pair programming, interviews, and shared code execution.
 
-`React` `Node.js` `Socket.IO` `MongoDB`
-
-[Repository →](https://github.com/assishmoncs/pairpad)
+**React** · **Node.js** · **Socket.IO** · **MongoDB**
 
 </td>
 <td width="50%" valign="top">
 
-### Zentra
+### [Zentra](https://github.com/assishmoncs/zentra)
 
-Android digital wellbeing platform focused on intentional device usage and measurable focus.
+Android digital wellbeing app built around focus scoring, focus sessions, and usage analytics.
 
-`Kotlin` `Android` `Room` `Hilt`
-
-[Repository →](https://github.com/assishmoncs/zentra)
+**Kotlin** · **Android** · **Room** · **Hilt**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AI Study Planner
+### [AI Study Planner](https://github.com/assishmoncs/ai-study-planner)
 
-AI-assisted study planning with tasks, focus sessions, and analytics.
+AI-assisted study planning with tasks, focus sessions, analytics, and a full-stack architecture.
 
-`Next.js` `TypeScript` `Node.js` `MongoDB`
-
-[Repository →](https://github.com/assishmoncs/ai-study-planner)
+**Next.js** · **TypeScript** · **Node.js** · **MongoDB**
 
 </td>
 <td width="50%" valign="top">
 
-### ShadowCast
+### [ShadowCast](https://github.com/assishmoncs/shadowcast)
 
-Browser-to-browser asset delivery using WebRTC peer-to-peer networking.
+Peer-to-peer web asset delivery engine using browser-to-browser WebRTC networking.
 
-`TypeScript` `WebRTC` `Go` `Next.js`
-
-[Repository →](https://github.com/assishmoncs/shadowcast)
+**TypeScript** · **WebRTC** · **Go** · **Next.js**
 
 </td>
 </tr>
@@ -130,8 +123,7 @@ Browser-to-browser asset delivery using WebRTC peer-to-peer networking.
 
 <div align="center">
 
-<a href="https://github.com/assishmoncs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/assishmoncs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/assishmoncs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:assishmoncs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
