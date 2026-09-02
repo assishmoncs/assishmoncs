@@ -46,76 +46,51 @@ I enjoy turning ideas into practical software, exploring AI/ML and full-stack de
 
 <div align="center">
 
-Projects that best represent the kind of systems I like to build.
+<a href="https://github.com/assishmoncs/pairpad"><img src="https://img.shields.io/badge/PairPad-Real--time%20Collaborative%20Coding-181717?style=for-the-badge&logo=github&logoColor=white" alt="PairPad" /></a>
+<a href="https://github.com/assishmoncs/zentra"><img src="https://img.shields.io/badge/Zentra-Android%20Digital%20Wellbeing-181717?style=for-the-badge&logo=android&logoColor=white" alt="Zentra" /></a>
+<a href="https://github.com/assishmoncs/ai-study-planner"><img src="https://img.shields.io/badge/AI%20Study%20Planner-AI%20Powered%20Productivity-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Study Planner" /></a>
+<a href="https://github.com/assishmoncs/shadowcast"><img src="https://img.shields.io/badge/ShadowCast-P2P%20Web%20Asset%20Delivery-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShadowCast" /></a>
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### PairPad
+### [PairPad](https://github.com/assishmoncs/pairpad)
 
-**Real-time collaborative coding platform** for pair programming, technical interviews, and shared code execution.
+Real-time collaborative coding for pair programming and technical interviews.
 
-**Highlights**
-- Concurrent editing powered by a sequence CRDT
-- Real-time presence, cursors, chat, rooms, and role-based access
-- Revision history, checkpoints, code execution, and multi-file workspaces
-
-**Stack:** React · Node.js · Socket.IO · MongoDB · Redis
-
-[View Repository](https://github.com/assishmoncs/pairpad)
+`React` `Node.js` `Socket.IO` `MongoDB`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### Zentra
+### [Zentra](https://github.com/assishmoncs/zentra)
 
-**Android digital-wellbeing platform** designed around intentional device usage and measurable focus.
+Android digital wellbeing platform focused on intentional device usage.
 
-**Highlights**
-- Weighted Focus Score based on app usage
-- Background-resilient focus sessions and mindfulness interventions
-- Room-based offline-first storage, widgets, and Quick Settings integration
-
-**Stack:** Kotlin · Android · Room · Hilt · Coroutines
-
-[View Repository](https://github.com/assishmoncs/zentra)
+`Kotlin` `Android` `Room` `Hilt`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### AI Study Planner
+### [AI Study Planner](https://github.com/assishmoncs/ai-study-planner)
 
-**Full-stack study planning platform** combining AI-generated plans with task management, focus sessions, and analytics.
+AI-assisted study planning with tasks, focus sessions, and analytics.
 
-**Highlights**
-- AI-generated study plans with deterministic fallback behavior
-- Pomodoro tracking, analytics dashboards, and task management
-- JWT refresh sessions, rate limiting, input sanitization, Docker, and CI
-
-**Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · OpenAI · Docker
-
-[View Repository](https://github.com/assishmoncs/ai-study-planner)
+`Next.js` `TypeScript` `Node.js` `MongoDB`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### ShadowCast
+### [ShadowCast](https://github.com/assishmoncs/shadowcast)
 
-**Client-side peer-to-peer asset delivery engine** that uses browser-to-browser WebRTC connections to reduce origin bandwidth and latency.
+Browser-to-browser asset delivery using WebRTC peer-to-peer networking.
 
-**Highlights**
-- Multi-peer swarm transfers with chunk-level SHA-256 integrity checks
-- Service Worker interception with IndexedDB caching and LRU management
-- Go signaling backend with rate limiting, health checks, metrics, and TURN support
-
-**Stack:** TypeScript · WebRTC · Go · Next.js · IndexedDB · Docker
-
-[View Repository](https://github.com/assishmoncs/shadowcast)
+`TypeScript` `WebRTC` `Go` `Next.js`
 
 </td>
 </tr>
