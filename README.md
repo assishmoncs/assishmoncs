@@ -123,10 +123,10 @@ Peer-to-peer web asset delivery engine using browser-to-browser WebRTC networkin
 <div align="center">
 
 <a href="https://github.com/assishmoncs">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=assishmoncs&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="Assish's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=assishmoncs&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=86400" alt="Assish's GitHub statistics" />
 </a>
 <a href="https://github.com/assishmoncs">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assishmoncs&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Assish's top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assishmoncs&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=86400" alt="Assish's top languages" />
 </a>
 
 </div>
