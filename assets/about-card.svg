@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="aboutTitle aboutDesc">
+  <title id="aboutTitle">About Assish - Developer Profile Card</title>
+  <desc id="aboutDesc">Profile card showcasing education at VIT Chennai, focus areas in Full-Stack and AI/ML, location in India, and contact information.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="65%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#7ee787" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0e131b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="380" rx="24" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="90" cy="50" r="140" fill="#58a6ff" opacity="0.05"/>
+  <circle cx="1110" cy="330" r="150" fill="#7ee787" opacity="0.04"/>
+
+  <!-- Header Category & Status Indicator -->
+  <g transform="translate(56, 38)">
+    <rect width="108" height="26" rx="13" fill="#1f6feb" fill-opacity="0.15" stroke="#388bfd" stroke-opacity="0.35" stroke-width="1"/>
+    <text x="54" y="17" text-anchor="middle" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#58a6ff">OVERVIEW</text>
+  </g>
+
+  <g transform="translate(930, 38)">
+    <rect width="214" height="26" rx="13" fill="#238636" fill-opacity="0.12" stroke="#2ea043" stroke-opacity="0.35" stroke-width="1"/>
+    <circle cx="18" cy="13" r="4" fill="#3fb950"/>
+    <text x="32" y="17" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="0.5" fill="#7ee787">OPEN TO COLLABORATION</text>
+  </g>
+
+  <!-- Headline & Bio -->
+  <text x="56" y="106" fill="#f0f6fc" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="24" font-weight="700">Software Developer &amp; Computer Science Student</text>
+  <text x="56" y="136" fill="#8b949e" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="400">Engineering practical software across full-stack applications, AI/ML workflows, and developer tools.</text>
+  <text x="56" y="159" fill="#8b949e" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="400">Focused on turning ideas from concept into reliable systems with scalable architecture and clean documentation.</text>
+
+  <!-- Divider Line -->
+  <rect x="56" y="186" width="1088" height="1.5" fill="url(#accent)" opacity="0.6"/>
+
+  <!-- Info Cards Grid (4 Columns) -->
+  <!-- Column 1: Education -->
+  <g transform="translate(56, 204)">
+    <rect width="257" height="136" rx="14" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1"/>
+    <text x="20" y="32" fill="#58a6ff" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">EDUCATION</text>
+    <text x="20" y="62" fill="#f0f6fc" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600">B.Tech in CSE</text>
+    <text x="20" y="88" fill="#8b949e" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="14" font-weight="400">VIT Chennai</text>
+    <text x="20" y="112" fill="#7ee787" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="500">Computer Science</text>
+  </g>
+
+  <!-- Column 2: Focus -->
+  <g transform="translate(333, 204)">
+    <rect width="257" height="136" rx="14" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1"/>
+    <text x="20" y="32" fill="#58a6ff" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">CURRENT FOCUS</text>
+    <text x="20" y="62" fill="#f0f6fc" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600">Full-Stack &amp; AI/ML</text>
+    <text x="20" y="88" fill="#8b949e" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="14" font-weight="400">Applied Intelligence</text>
+    <text x="20" y="112" fill="#7ee787" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="500">Developer Tooling</text>
+  </g>
+
+  <!-- Column 3: Location -->
+  <g transform="translate(610, 204)">
+    <rect width="257" height="136" rx="14" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1"/>
+    <text x="20" y="32" fill="#58a6ff" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">LOCATION</text>
+    <text x="20" y="62" fill="#f0f6fc" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600">India</text>
+    <text x="20" y="88" fill="#8b949e" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="14" font-weight="400">Timezone</text>
+    <text x="20" y="112" fill="#7ee787" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="500">IST (UTC+5:30)</text>
+  </g>
+
+  <!-- Column 4: Links -->
+  <g transform="translate(887, 204)">
+    <rect width="257" height="136" rx="14" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1"/>
+    <text x="20" y="32" fill="#58a6ff" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">PORTFOLIO &amp; CONTACT</text>
+    <text x="20" y="62" fill="#f0f6fc" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600">assishmoncs.tech</text>
+    <text x="20" y="88" fill="#8b949e" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="13" font-weight="400">assishmoncs@gmail.com</text>
+    <text x="20" y="112" fill="#7ee787" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="500">Open for Opportunities</text>
+  </g>
+</svg>
