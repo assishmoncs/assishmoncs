@@ -122,12 +122,8 @@ Peer-to-peer web asset delivery engine using browser-to-browser WebRTC networkin
 
 <div align="center">
 
-<a href="https://github.com/assishmoncs">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=assishmoncs&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=86400" alt="Assish's GitHub statistics" />
-</a>
-<a href="https://github.com/assishmoncs">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assishmoncs&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=86400" alt="Assish's top languages" />
-</a>
+<a href="https://github.com/assishmoncs"><img height="170" src="./assets/github-stats.svg" alt="Assish's GitHub statistics" /></a>
+<a href="https://github.com/assishmoncs"><img height="170" src="./assets/top-langs.svg" alt="Assish's top languages" /></a>
 
 </div>
 
@@ -137,11 +133,11 @@ Peer-to-peer web asset delivery engine using browser-to-browser WebRTC networkin
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=assishmoncs&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+<img width="95%" src="./assets/activity.svg" alt="Contribution activity graph" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=assishmoncs&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=7EE787&sideNums=F0F6FC&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="GitHub contribution streak" />
+<img width="490" src="./assets/streak.svg" alt="GitHub contribution streak" />
 
 </div>
 
