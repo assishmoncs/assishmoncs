@@ -60,6 +60,6 @@
 <text x="892" y="210" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="10">08/31</text>
 <rect x="910" y="158.5" width="14" height="23.5" rx="4" fill="#58a6ff" opacity="0.38"/>
 <rect x="928" y="145.4" width="14" height="36.6" rx="4" fill="#58a6ff" opacity="0.48"/>
-<rect x="946" y="172.9" width="14" height="9.1" rx="4" fill="#58a6ff" opacity="0.26"/>
-<text x="932" y="34" text-anchor="end" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="12">885 total • 834 commits • 6 stars • 12 followers</text>
+<rect x="946" y="171.8" width="14" height="10.2" rx="4" fill="#58a6ff" opacity="0.27"/>
+<text x="932" y="34" text-anchor="end" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="12">889 total • 837 commits • 6 stars • 12 followers</text>
 </svg>
