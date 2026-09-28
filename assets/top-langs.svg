@@ -18,7 +18,7 @@
   <!-- Segmented Language Bar -->
   <g>
     <rect x="24" y="50" width="442" height="8" rx="4" fill="#21262d"/>
-    <rect x="24.0" y="50" width="190.6" height="8" fill="#f1e05a" rx="4"/><rect x="214.6" y="50" width="66.4" height="8" fill="#3178c6" rx="0"/><rect x="281.0" y="50" width="59.3" height="8" fill="#3572A5" rx="0"/><rect x="340.3" y="50" width="45.0" height="8" fill="#563d7c" rx="0"/><rect x="385.3" y="50" width="38.7" height="8" fill="#A97BFF" rx="0"/><rect x="424.1" y="50" width="21.2" height="8" fill="#e34c26" rx="4"/>
+    <rect x="24.0" y="50" width="190.5" height="8" fill="#f1e05a" rx="4"/><rect x="214.5" y="50" width="66.3" height="8" fill="#3178c6" rx="0"/><rect x="280.8" y="50" width="59.3" height="8" fill="#3572A5" rx="0"/><rect x="340.1" y="50" width="45.0" height="8" fill="#563d7c" rx="0"/><rect x="385.1" y="50" width="38.7" height="8" fill="#A97BFF" rx="0"/><rect x="423.9" y="50" width="21.2" height="8" fill="#e34c26" rx="4"/>
   </g>
 
   <!-- Language Grid -->
