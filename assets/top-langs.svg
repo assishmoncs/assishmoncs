@@ -18,7 +18,7 @@
   <!-- Segmented Language Bar -->
   <g>
     <rect x="24" y="50" width="442" height="8" rx="4" fill="#21262d"/>
-    <rect x="24.0" y="50" width="154.8" height="8" fill="#f1e05a" rx="4"/><rect x="178.8" y="50" width="95.2" height="8" fill="#e34c26" rx="0"/><rect x="274.0" y="50" width="53.2" height="8" fill="#3178c6" rx="0"/><rect x="327.2" y="50" width="49.3" height="8" fill="#3572A5" rx="0"/><rect x="376.5" y="50" width="38.5" height="8" fill="#563d7c" rx="0"/><rect x="415.0" y="50" width="31.4" height="8" fill="#A97BFF" rx="4"/>
+    <rect x="24.0" y="50" width="152.2" height="8" fill="#f1e05a" rx="4"/><rect x="176.2" y="50" width="93.6" height="8" fill="#e34c26" rx="0"/><rect x="269.8" y="50" width="52.3" height="8" fill="#3178c6" rx="0"/><rect x="322.1" y="50" width="48.5" height="8" fill="#3572A5" rx="0"/><rect x="370.6" y="50" width="37.9" height="8" fill="#563d7c" rx="0"/><rect x="408.4" y="50" width="31.2" height="8" fill="#A97BFF" rx="4"/>
   </g>
 
   <!-- Language Grid -->
@@ -27,36 +27,36 @@
       <circle cx="6" cy="6" r="5" fill="#f1e05a"/>
       <text x="18" y="10" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600">JavaScript</text>
       <rect x="110" y="3" width="60" height="6" rx="3" fill="#21262d"/>
-      <rect x="110" y="3" width="42" height="6" rx="3" fill="#f1e05a"/>
-      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">35.0%</text>
+      <rect x="110" y="3" width="41" height="6" rx="3" fill="#f1e05a"/>
+      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">34.4%</text>
     </g>
     <g transform="translate(24, 112)">
       <circle cx="6" cy="6" r="5" fill="#3178c6"/>
       <text x="18" y="10" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600">TypeScript</text>
       <rect x="110" y="3" width="60" height="6" rx="3" fill="#21262d"/>
       <rect x="110" y="3" width="14" height="6" rx="3" fill="#3178c6"/>
-      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">12.0%</text>
+      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">11.8%</text>
     </g>
     <g transform="translate(24, 146)">
       <circle cx="6" cy="6" r="5" fill="#563d7c"/>
       <text x="18" y="10" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600">CSS</text>
       <rect x="110" y="3" width="60" height="6" rx="3" fill="#21262d"/>
       <rect x="110" y="3" width="10" height="6" rx="3" fill="#563d7c"/>
-      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">8.7%</text>
+      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">8.6%</text>
     </g>
     <g transform="translate(252, 78)">
       <circle cx="6" cy="6" r="5" fill="#e34c26"/>
       <text x="18" y="10" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600">HTML</text>
       <rect x="110" y="3" width="60" height="6" rx="3" fill="#21262d"/>
       <rect x="110" y="3" width="25" height="6" rx="3" fill="#e34c26"/>
-      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">21.5%</text>
+      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">21.2%</text>
     </g>
     <g transform="translate(252, 112)">
       <circle cx="6" cy="6" r="5" fill="#3572A5"/>
       <text x="18" y="10" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600">Python</text>
       <rect x="110" y="3" width="60" height="6" rx="3" fill="#21262d"/>
       <rect x="110" y="3" width="13" height="6" rx="3" fill="#3572A5"/>
-      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">11.2%</text>
+      <text x="214" y="10" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">11.0%</text>
     </g>
     <g transform="translate(252, 146)">
       <circle cx="6" cy="6" r="5" fill="#A97BFF"/>
